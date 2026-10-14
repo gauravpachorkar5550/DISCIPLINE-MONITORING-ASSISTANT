@@ -1,0 +1,7 @@
+{
+  "name": "Discipline Monitoring Assistant",
+  "description": "AI-powered college discipline and attendance monitoring assistant promoting fairness, constructive student support, and transparent record management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

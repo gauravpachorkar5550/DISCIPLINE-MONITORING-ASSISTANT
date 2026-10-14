@@ -1,0 +1,756 @@
+{
+  "students": [
+    {
+      "id": "STU-2024-001",
+      "name": "Rahul Sharma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-A",
+      "rollNumber": "TE-A-24",
+      "academicYear": "2024-2025",
+      "mentor": "Prof. Dr. Archana Kulkarni",
+      "attendance": {
+        "totalClasses": 64,
+        "attendedClasses": 56,
+        "percentage": 87.5,
+        "lateArrivals": 3
+      },
+      "openReportsCount": 1,
+      "resolvedReportsCount": 0,
+      "activeFollowupsCount": 1,
+      "notes": "Attentive in labs; had 2 late arrivals during 8:00 AM Compiler Design slot due to suburban train delays.",
+      "status": "Good Standing"
+    },
+    {
+      "id": "STU-2024-002",
+      "name": "Priya Iyer",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-A",
+      "rollNumber": "TE-A-15",
+      "academicYear": "2024-2025",
+      "mentor": "Prof. Rajesh Deshmukh",
+      "attendance": {
+        "totalClasses": 64,
+        "attendedClasses": 62,
+        "percentage": 96.9,
+        "lateArrivals": 0
+      },
+      "openReportsCount": 0,
+      "resolvedReportsCount": 0,
+      "activeFollowupsCount": 0,
+      "notes": "Exemplary attendance and active contributor in Open Source Software group.",
+      "status": "Good Standing"
+    },
+    {
+      "id": "STU-2024-003",
+      "name": "Aman Verma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-B",
+      "rollNumber": "TE-B-42",
+      "academicYear": "2024-2025",
+      "mentor": "Prof. Sunita Patil",
+      "attendance": {
+        "totalClasses": 64,
+        "attendedClasses": 43,
+        "percentage": 67.2,
+        "lateArrivals": 6
+      },
+      "openReportsCount": 2,
+      "resolvedReportsCount": 0,
+      "activeFollowupsCount": 2,
+      "notes": "Attendance below 75% threshold in Cloud Computing; supportive academic mentoring initiated.",
+      "status": "Academic/Attendance Review"
+    },
+    {
+      "id": "STU-2024-004",
+      "name": "Ananya Patel",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-A",
+      "rollNumber": "TE-A-31",
+      "academicYear": "2024-2025",
+      "mentor": "Prof. Dr. Archana Kulkarni",
+      "attendance": {
+        "totalClasses": 64,
+        "attendedClasses": 58,
+        "percentage": 90.6,
+        "lateArrivals": 1
+      },
+      "openReportsCount": 0,
+      "resolvedReportsCount": 1,
+      "activeFollowupsCount": 0,
+      "notes": "Project leader for Smart Campus hackathon team; one pending clarification on lab kit handover.",
+      "status": "Good Standing"
+    },
+    {
+      "id": "STU-2024-005",
+      "name": "Devendra Naik",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-B",
+      "rollNumber": "TE-B-19",
+      "academicYear": "2024-2025",
+      "mentor": "Prof. Sunita Patil",
+      "attendance": {
+        "totalClasses": 64,
+        "attendedClasses": 51,
+        "percentage": 79.7,
+        "lateArrivals": 4
+      },
+      "openReportsCount": 1,
+      "resolvedReportsCount": 0,
+      "activeFollowupsCount": 1,
+      "notes": "Recent improvement in punctuality following peer study group schedule adjustment.",
+      "status": "Good Standing"
+    },
+    {
+      "id": "STU-2024-006",
+      "name": "Sneha Kulkarni",
+      "department": "Computer Engineering",
+      "classDivision": "BE-COMP-A",
+      "rollNumber": "BE-A-08",
+      "academicYear": "2024-2025",
+      "mentor": "Prof. Rajesh Deshmukh",
+      "attendance": {
+        "totalClasses": 60,
+        "attendedClasses": 55,
+        "percentage": 91.7,
+        "lateArrivals": 1
+      },
+      "openReportsCount": 0,
+      "resolvedReportsCount": 0,
+      "activeFollowupsCount": 0,
+      "notes": "Final year capstone student, consistently meets project milestones.",
+      "status": "Good Standing"
+    },
+    {
+      "id": "STU-2024-007",
+      "name": "Karthik Raman",
+      "department": "Computer Engineering",
+      "classDivision": "BE-COMP-B",
+      "rollNumber": "BE-B-55",
+      "academicYear": "2024-2025",
+      "mentor": "Prof. Dr. Archana Kulkarni",
+      "attendance": {
+        "totalClasses": 60,
+        "attendedClasses": 44,
+        "percentage": 73.3,
+        "lateArrivals": 5
+      },
+      "openReportsCount": 0,
+      "resolvedReportsCount": 1,
+      "activeFollowupsCount": 0,
+      "notes": "Submitted medical certificate for 5 days absence; verification under academic dean review.",
+      "status": "Academic/Attendance Review"
+    },
+    {
+      "id": "STU-2024-008",
+      "name": "Meera Nair",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-A",
+      "rollNumber": "TE-A-50",
+      "academicYear": "2024-2025",
+      "mentor": "Prof. Rajesh Deshmukh",
+      "attendance": {
+        "totalClasses": 64,
+        "attendedClasses": 60,
+        "percentage": 93.8,
+        "lateArrivals": 0
+      },
+      "openReportsCount": 0,
+      "resolvedReportsCount": 0,
+      "activeFollowupsCount": 0,
+      "notes": "Member of Student Council Ethics committee.",
+      "status": "Good Standing"
+    }
+  ],
+  "incidents": [
+    {
+      "id": "INC-2024-1001",
+      "referenceNumber": "INC-2024-1001",
+      "dateTime": "2024-10-08T10:15:00Z",
+      "studentId": "STU-2024-001",
+      "studentName": "Rahul Sharma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-A",
+      "category": "Classroom disruption",
+      "description": "During the Operating Systems lecture, mobile notification sounds rang repeatedly from the back row. When the instructor paused, student acknowledged the device was not on silent mode and switched it off.",
+      "relevantRule": "RULE-ENG-101 (Classroom Decorum & Device Usage)",
+      "peopleInvolved": "Rahul Sharma (Student), Prof. Rajesh Deshmukh (Instructor)",
+      "witnessInfo": "Class peers seated in row 4 noted the device was silenced promptly after instructor notification.",
+      "immediateActionTaken": "Instructor reminded class regarding silent mode policy; resumed lecture with no further interruptions.",
+      "followUpRequired": true,
+      "supportingNotes": "First reported observation. Handled politely by both student and instructor.",
+      "confidentialNotes": "Faculty mentor noted student was expecting an urgent communication regarding family transit arrangements.",
+      "status": "Awaiting student response",
+      "studentResponse": "",
+      "isVerifiedFact": true,
+      "reportedBy": "Prof. Rajesh Deshmukh",
+      "reportedByRole": "faculty",
+      "history": [
+        {
+          "timestamp": "2024-10-08T10:30:00Z",
+          "actor": "Prof. Rajesh Deshmukh",
+          "role": "faculty",
+          "action": "Incident report filed with neutral observation notes."
+        },
+        {
+          "timestamp": "2024-10-08T11:00:00Z",
+          "actor": "Prof. Dr. Archana Kulkarni",
+          "role": "admin",
+          "action": "Status updated to Awaiting student response for transparent input."
+        }
+      ]
+    },
+    {
+      "id": "INC-2024-1002",
+      "referenceNumber": "INC-2024-1002",
+      "dateTime": "2024-10-04T08:25:00Z",
+      "studentId": "STU-2024-003",
+      "studentName": "Aman Verma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-B",
+      "category": "Repeated lateness",
+      "description": "Arrived 25 minutes after commencement of Database Management Systems practical session on three consecutive Fridays.",
+      "relevantRule": "RULE-ENG-102 (Punctuality & Laboratory Safety Protocol)",
+      "peopleInvolved": "Aman Verma (Student), Lab Assistant Mr. Joshi",
+      "witnessInfo": "Laboratory sign-in register entries dated Sept 20, Sept 27, and Oct 4.",
+      "immediateActionTaken": "Student was admitted to complete the practical exercise; asked to speak with mentor post-session.",
+      "followUpRequired": true,
+      "supportingNotes": "Student mentioned bus transit route schedule was changed due to road repair works.",
+      "confidentialNotes": "Verify with municipal transport updates before issuing any advisory.",
+      "status": "Under review",
+      "studentResponse": "The municipal bus route 412 has been delayed by 20 minutes due to metro construction near Shivaji Chowk. I am now taking the earlier 7:15 AM service.",
+      "studentResponseDate": "2024-10-05T14:20:00Z",
+      "isVerifiedFact": true,
+      "reportedBy": "Prof. Sunita Patil",
+      "reportedByRole": "faculty",
+      "history": [
+        {
+          "timestamp": "2024-10-04T09:00:00Z",
+          "actor": "Prof. Sunita Patil",
+          "role": "faculty",
+          "action": "Report submitted requesting supportive attendance review."
+        },
+        {
+          "timestamp": "2024-10-05T14:20:00Z",
+          "actor": "Aman Verma",
+          "role": "student",
+          "action": "Student clarification submitted detailing bus schedule changes."
+        }
+      ]
+    },
+    {
+      "id": "INC-2024-1003",
+      "referenceNumber": "INC-2024-1003",
+      "dateTime": "2024-10-02T14:00:00Z",
+      "studentId": "STU-2024-004",
+      "studentName": "Ananya Patel",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-A",
+      "category": "Violation of a documented college rule",
+      "description": "Microcontroller development kit borrowed for Hackathon was returned past the designated 48-hour checkout window without prior renewal email.",
+      "relevantRule": "RULE-ENG-104 (Care of College Infrastructure & Computing Equipment)",
+      "peopleInvolved": "Ananya Patel (Student), Lab Tech Sandeep Sawant",
+      "witnessInfo": "Embedded Systems Lab equipment checkout log book.",
+      "immediateActionTaken": "Equipment inspected; found in pristine working condition. Handover receipt issued.",
+      "followUpRequired": false,
+      "supportingNotes": "Student explained team was finalizing code demonstrations until late night Sunday.",
+      "status": "Resolved",
+      "studentResponse": "We sincerely apologize for the delay. The hardware was securely stored in the college incubation lab during the hackathon.",
+      "studentResponseDate": "2024-10-03T11:00:00Z",
+      "isVerifiedFact": true,
+      "reportedBy": "Prof. Dr. Archana Kulkarni",
+      "reportedByRole": "faculty",
+      "history": [
+        {
+          "timestamp": "2024-10-02T14:30:00Z",
+          "actor": "Prof. Dr. Archana Kulkarni",
+          "role": "faculty",
+          "action": "Report logged regarding overdue hardware kit return."
+        },
+        {
+          "timestamp": "2024-10-03T12:00:00Z",
+          "actor": "Prof. Dr. Archana Kulkarni",
+          "role": "faculty",
+          "action": "Hardware verified functional; resolved with verbal briefing on equipment renewal procedures."
+        }
+      ]
+    },
+    {
+      "id": "INC-2024-1004",
+      "referenceNumber": "INC-2024-1004",
+      "dateTime": "2024-09-28T11:45:00Z",
+      "studentId": "STU-2024-005",
+      "studentName": "Devendra Naik",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-B",
+      "category": "Attendance-related concern",
+      "description": "Attendance in Computer Networks theory dropped to 68% over the preceding fortnight.",
+      "relevantRule": "RULE-ENG-102 (Attendance & Punctuality Thresholds)",
+      "peopleInvolved": "Devendra Naik (Student), Prof. Sunita Patil",
+      "witnessInfo": "Official digital attendance portal bi-weekly summary.",
+      "immediateActionTaken": "Mentor invited student for an informal academic check-in to discuss subject difficulty.",
+      "followUpRequired": true,
+      "supportingNotes": "Student expressed difficulty following subnetting math; peer mentoring assigned.",
+      "confidentialNotes": "Student working part-time evening shift; mentor suggested academic tutoring slot at 4:30 PM.",
+      "status": "Follow-up required",
+      "isVerifiedFact": true,
+      "reportedBy": "Prof. Sunita Patil",
+      "reportedByRole": "faculty",
+      "history": [
+        {
+          "timestamp": "2024-09-28T12:00:00Z",
+          "actor": "Prof. Sunita Patil",
+          "role": "faculty",
+          "action": "Report created to track academic attendance outreach."
+        }
+      ]
+    },
+    {
+      "id": "INC-2024-1005",
+      "referenceNumber": "INC-2024-1005",
+      "dateTime": "2024-09-22T15:30:00Z",
+      "studentId": "STU-2024-007",
+      "studentName": "Karthik Raman",
+      "department": "Computer Engineering",
+      "classDivision": "BE-COMP-B",
+      "category": "Disrespectful behaviour",
+      "description": "Allegation reported that raised voices occurred during a heated debate during the Capstone Project group presentation regarding task distribution.",
+      "relevantRule": "RULE-ENG-105 (Respectful Dialogue & Non-Disruptive Speech)",
+      "peopleInvolved": "Karthik Raman, 2 project team members, Prof. Dr. Archana Kulkarni",
+      "witnessInfo": "Team members stated disagreement was technical regarding frontend vs backend framework selection.",
+      "immediateActionTaken": "Instructor halted debate, scheduled separate project advisory meeting for the team.",
+      "followUpRequired": true,
+      "supportingNotes": "Distinguish passionate academic technical debate from intentional disrespect. Both sides cooperative in resolution.",
+      "status": "Resolved",
+      "studentResponse": "We were passionate about our architectural design choices, but I recognize our tone escalated unnecessarily and apologize to the panel.",
+      "studentResponseDate": "2024-09-23T10:00:00Z",
+      "isVerifiedFact": false,
+      "reportedBy": "Prof. Dr. Archana Kulkarni",
+      "reportedByRole": "faculty",
+      "history": [
+        {
+          "timestamp": "2024-09-22T16:00:00Z",
+          "actor": "Prof. Dr. Archana Kulkarni",
+          "role": "faculty",
+          "action": "Report filed with observation notes regarding project meeting friction."
+        },
+        {
+          "timestamp": "2024-09-25T11:00:00Z",
+          "actor": "Prof. Dr. Archana Kulkarni",
+          "role": "faculty",
+          "action": "Team mediation session conducted; roles clarified; case closed successfully."
+        }
+      ]
+    },
+    {
+      "id": "INC-2024-1006",
+      "referenceNumber": "INC-2024-1006",
+      "dateTime": "2024-10-10T11:15:00Z",
+      "studentId": "STU-2024-003",
+      "studentName": "Aman Verma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-B",
+      "category": "Damage to college property",
+      "description": "Observed loose power socket cover near workstation 14 in Web Technology Lab after afternoon batch. Student working at workstation 14 reported the socket was loose when plugging in laptop charger.",
+      "relevantRule": "RULE-ENG-104 (Care of College Infrastructure & Computing Equipment)",
+      "peopleInvolved": "Aman Verma, Lab Attendant R. Shinde",
+      "witnessInfo": "Adjacent student observed plug sparked slightly before cover dislodged due to aged screw fixture.",
+      "immediateActionTaken": "Workstation power supply isolated immediately by lab attendant; maintenance request filed.",
+      "followUpRequired": true,
+      "supportingNotes": "Initial inspection indicates wear-and-tear / socket fatigue rather than intentional vandalism.",
+      "status": "Under review",
+      "isVerifiedFact": false,
+      "reportedBy": "Prof. Sunita Patil",
+      "reportedByRole": "faculty",
+      "history": [
+        {
+          "timestamp": "2024-10-10T12:00:00Z",
+          "actor": "Prof. Sunita Patil",
+          "role": "faculty",
+          "action": "Factual observation recorded without assigning premature fault."
+        }
+      ]
+    }
+  ],
+  "followups": [
+    {
+      "id": "FUP-2024-081",
+      "incidentId": "INC-2024-1001",
+      "incidentRef": "INC-2024-1001",
+      "studentId": "STU-2024-001",
+      "studentName": "Rahul Sharma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-A",
+      "taskTitle": "Digital Etiquette & Mentor Discussion",
+      "description": "Informal 10-minute check-in with student regarding managing urgent notifications and classroom decorum.",
+      "actionType": "Supportive Mentoring Session",
+      "assignedStaff": "Prof. Dr. Archana Kulkarni",
+      "assignedStaffRole": "Faculty Mentor",
+      "dueDate": "2024-10-16",
+      "status": "Overdue",
+      "createdAt": "2024-10-08T11:00:00Z"
+    },
+    {
+      "id": "FUP-2024-082",
+      "incidentId": "INC-2024-1002",
+      "incidentRef": "INC-2024-1002",
+      "studentId": "STU-2024-003",
+      "studentName": "Aman Verma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-B",
+      "taskTitle": "Transit Route Review & Morning Attendance Plan",
+      "description": "Verify municipal transit schedule and discuss flexible batch alignment if commute route remains disrupted.",
+      "actionType": "Attendance Review",
+      "assignedStaff": "Prof. Sunita Patil",
+      "assignedStaffRole": "Class Teacher",
+      "dueDate": "2024-10-09",
+      "status": "Overdue",
+      "createdAt": "2024-10-04T09:30:00Z"
+    },
+    {
+      "id": "FUP-2024-083",
+      "incidentId": "INC-2024-1004",
+      "incidentRef": "INC-2024-1004",
+      "studentId": "STU-2024-005",
+      "studentName": "Devendra Naik",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-B",
+      "taskTitle": "Academic Guidance in Computer Networks",
+      "description": "Connect student with peer study coordinator for weekend subnetting tutorial.",
+      "actionType": "Academic Guidance",
+      "assignedStaff": "Prof. Sunita Patil",
+      "assignedStaffRole": "Subject In-charge",
+      "dueDate": "2024-10-18",
+      "status": "Overdue",
+      "createdAt": "2024-09-28T12:30:00Z"
+    },
+    {
+      "id": "FUP-2024-084",
+      "incidentId": "INC-2024-1006",
+      "incidentRef": "INC-2024-1006",
+      "studentId": "STU-2024-003",
+      "studentName": "Aman Verma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-B",
+      "taskTitle": "Workstation 14 Electrical Maintenance Inspection",
+      "description": "Campus maintenance engineer to review socket fixture integrity and close safety ticket.",
+      "actionType": "Lab Safety Briefing",
+      "assignedStaff": "Mr. R. Shinde",
+      "assignedStaffRole": "Lab Technical Staff",
+      "dueDate": "2024-10-12",
+      "status": "Overdue",
+      "createdAt": "2024-10-10T12:15:00Z"
+    },
+    {
+      "id": "FUP-2024-085",
+      "incidentId": "INC-2024-1005",
+      "incidentRef": "INC-2024-1005",
+      "studentId": "STU-2024-007",
+      "studentName": "Karthik Raman",
+      "department": "Computer Engineering",
+      "classDivision": "BE-COMP-B",
+      "taskTitle": "Capstone Team Role Clarification Meeting",
+      "description": "Conduct guided discussion on agile team roles and communication expectations.",
+      "actionType": "Policy Clarification",
+      "assignedStaff": "Prof. Dr. Archana Kulkarni",
+      "assignedStaffRole": "Project Coordinator",
+      "dueDate": "2024-09-25",
+      "status": "Completed",
+      "resolutionSummary": "Completed successfully on Sept 25. Team agreed on modular API interfaces and task ownership.",
+      "completedDate": "2024-09-25T11:30:00Z",
+      "createdAt": "2024-09-22T16:15:00Z"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "ATT-2024-501",
+      "date": "2024-10-11",
+      "studentId": "STU-2024-001",
+      "studentName": "Rahul Sharma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-A",
+      "subject": "Operating Systems",
+      "status": "Present",
+      "flaggedForOutreach": false,
+      "disputed": false,
+      "auditLog": []
+    },
+    {
+      "id": "ATT-2024-502",
+      "date": "2024-10-11",
+      "studentId": "STU-2024-003",
+      "studentName": "Aman Verma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-B",
+      "subject": "Cloud Computing",
+      "status": "Absent",
+      "flaggedForOutreach": true,
+      "disputed": true,
+      "disputeReason": "Student attended guest lecture in auditorium with official permission slip from HOD.",
+      "resolutionNotes": "Awaiting copy of permission slip signed by faculty advisor.",
+      "auditLog": [
+        {
+          "timestamp": "2024-10-11T16:00:00Z",
+          "updatedBy": "Prof. Sunita Patil",
+          "prevStatus": "Absent",
+          "newStatus": "Absent",
+          "reason": "Flagged with student dispute note regarding auditorium guest lecture."
+        }
+      ]
+    },
+    {
+      "id": "ATT-2024-503",
+      "date": "2024-10-11",
+      "studentId": "STU-2024-004",
+      "studentName": "Ananya Patel",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-A",
+      "subject": "Operating Systems",
+      "status": "Present",
+      "flaggedForOutreach": false,
+      "disputed": false,
+      "auditLog": []
+    },
+    {
+      "id": "ATT-2024-504",
+      "date": "2024-10-11",
+      "studentId": "STU-2024-005",
+      "studentName": "Devendra Naik",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-B",
+      "subject": "Cloud Computing",
+      "status": "Late",
+      "lateMinutes": 12,
+      "flaggedForOutreach": false,
+      "disputed": false,
+      "auditLog": []
+    },
+    {
+      "id": "ATT-2024-505",
+      "date": "2024-10-10",
+      "studentId": "STU-2024-001",
+      "studentName": "Rahul Sharma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-A",
+      "subject": "Database Management Systems",
+      "status": "Late",
+      "lateMinutes": 15,
+      "flaggedForOutreach": false,
+      "disputed": false,
+      "auditLog": []
+    },
+    {
+      "id": "ATT-2024-506",
+      "date": "2024-10-10",
+      "studentId": "STU-2024-002",
+      "studentName": "Priya Iyer",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-A",
+      "subject": "Database Management Systems",
+      "status": "Present",
+      "flaggedForOutreach": false,
+      "disputed": false,
+      "auditLog": []
+    },
+    {
+      "id": "ATT-2024-507",
+      "date": "2024-10-10",
+      "studentId": "STU-2024-003",
+      "studentName": "Aman Verma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-B",
+      "subject": "Computer Networks Lab",
+      "status": "Late",
+      "lateMinutes": 20,
+      "flaggedForOutreach": true,
+      "disputed": false,
+      "auditLog": []
+    },
+    {
+      "id": "ATT-2024-508",
+      "date": "2024-10-09",
+      "studentId": "STU-2024-001",
+      "studentName": "Rahul Sharma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-A",
+      "subject": "Software Engineering",
+      "status": "Present",
+      "flaggedForOutreach": false,
+      "disputed": false,
+      "auditLog": []
+    },
+    {
+      "id": "ATT-2024-509",
+      "date": "2024-10-09",
+      "studentId": "STU-2024-003",
+      "studentName": "Aman Verma",
+      "department": "Computer Engineering",
+      "classDivision": "TE-COMP-B",
+      "subject": "Software Engineering",
+      "status": "Absent",
+      "flaggedForOutreach": true,
+      "disputed": false,
+      "auditLog": []
+    },
+    {
+      "id": "ATT-2024-510",
+      "date": "2024-10-08",
+      "studentId": "STU-2024-007",
+      "studentName": "Karthik Raman",
+      "department": "Computer Engineering",
+      "classDivision": "BE-COMP-B",
+      "subject": "Distributed Systems",
+      "status": "Present",
+      "flaggedForOutreach": false,
+      "disputed": false,
+      "auditLog": [
+        {
+          "timestamp": "2024-10-08T15:00:00Z",
+          "updatedBy": "Prof. Dr. Archana Kulkarni",
+          "prevStatus": "Absent",
+          "newStatus": "Present",
+          "reason": "Corrected after reviewing verified student lab attendance log."
+        }
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "id": "COR-2024-021",
+      "studentId": "STU-2024-001",
+      "studentName": "Rahul Sharma",
+      "department": "Computer Engineering",
+      "type": "Incident Clarification",
+      "relatedRecordId": "INC-2024-1001",
+      "subject": "Clarification on Oct 8 Mobile Alert Observation",
+      "explanation": "I apologize for the ringtone interruption in OS lecture. My phone was in my backpack and a calendar medication reminder overrode silent mode. I have adjusted alarm settings to silent vibration during lecture hours.",
+      "status": "Under Review",
+      "submittedAt": "2024-10-08T13:30:00Z"
+    },
+    {
+      "id": "COR-2024-022",
+      "studentId": "STU-2024-003",
+      "studentName": "Aman Verma",
+      "department": "Computer Engineering",
+      "type": "Attendance Correction",
+      "relatedRecordId": "ATT-2024-502",
+      "subject": "Request for Attendance Credit - Oct 11 Guest Lecture",
+      "explanation": "I attended the Department Technical Symposium in the Main Auditorium on Oct 11 from 10:00 AM to 12:00 PM with formal gate pass #GP-402 signed by Dr. Kulkarni.",
+      "status": "Pending",
+      "submittedAt": "2024-10-11T17:15:00Z"
+    },
+    {
+      "id": "COR-2024-023",
+      "studentId": "STU-2024-004",
+      "studentName": "Ananya Patel",
+      "department": "Computer Engineering",
+      "type": "Record Error",
+      "relatedRecordId": "INC-2024-1003",
+      "subject": "Resolution Acknowledgement for Hardware Kit Return",
+      "explanation": "Hardware kit was returned in complete order with all peripheral sensors on Oct 3; requesting record status to reflect resolution.",
+      "status": "Accepted",
+      "facultyResponse": "Confirmed and verified. Record marked as fully resolved in good standing.",
+      "reviewedBy": "Prof. Dr. Archana Kulkarni",
+      "submittedAt": "2024-10-03T14:00:00Z",
+      "resolvedAt": "2024-10-04T09:00:00Z"
+    }
+  ],
+  "rules": [
+    {
+      "code": "RULE-ENG-101",
+      "title": "Classroom Decorum & Device Usage",
+      "category": "Classroom Conduct",
+      "description": "Mobile devices, laptops, and smart tablets should be used strictly for coursework, note-taking, or instructional exercises during active lecture and practical hours.",
+      "constructiveApproach": "Faculty conducts a brief one-on-one reminder regarding digital distraction management and offers lecture slides beforehand to minimize device switching."
+    },
+    {
+      "code": "RULE-ENG-102",
+      "title": "Punctuality & Laboratory Safety Protocol",
+      "category": "Attendance & Punctuality",
+      "description": "Students must arrive within 5 minutes of scheduled lab/lecture commencement. Late arrivals disrupt instructions and safety briefings in computer systems & hardware labs.",
+      "constructiveApproach": "Identify transportation or scheduling hurdles. Faculty schedules a mentor check-in to assist with morning commute arrangements."
+    },
+    {
+      "code": "RULE-ENG-103",
+      "title": "Collaborative Integrity & Work Attribution",
+      "category": "Academic Integrity",
+      "description": "All submitted laboratory codes, project repositories, and assignments must accurately acknowledge group contributions, libraries, and cited sources without unauthorized copying.",
+      "constructiveApproach": "Provide targeted educational guidance on Git attribution, citation formats, and offer a remedial coding lab before grading."
+    },
+    {
+      "code": "RULE-ENG-104",
+      "title": "Care of College Infrastructure & Computing Equipment",
+      "category": "Property & Facilities",
+      "description": "Hardware testbeds, networking racks, monitors, and departmental furniture must be handled with care. Any malfunction must be immediately reported to the lab assistant.",
+      "constructiveApproach": "Hold a restorative lab safety walkthrough. Allow the student to assist lab staff in hardware diagnostics to reinforce technical accountability."
+    },
+    {
+      "code": "RULE-ENG-105",
+      "title": "Respectful Dialogue & Non-Disruptive Speech",
+      "category": "Campus Environment",
+      "description": "Members of the academic community must engage in respectful, constructive dialogue. Disruptive interruptions or disrespectful verbal exchanges during instruction are unacceptable.",
+      "constructiveApproach": "Facilitate a structured restorative dialogue guided by the faculty mentor to clear misunderstandings and set clear mutual classroom norms."
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "AUD-001",
+      "timestamp": "2024-10-08T10:30:00Z",
+      "actor": "Prof. Rajesh Deshmukh",
+      "actorRole": "faculty",
+      "action": "CREATE_INCIDENT",
+      "entityType": "Incident",
+      "entityId": "INC-2024-1001",
+      "details": "Logged factual classroom observation for TE-COMP-A (Rahul Sharma)."
+    },
+    {
+      "id": "AUD-002",
+      "timestamp": "2024-10-08T11:00:00Z",
+      "actor": "Prof. Dr. Archana Kulkarni",
+      "actorRole": "admin",
+      "action": "CREATE_FOLLOWUP",
+      "entityType": "FollowUp",
+      "entityId": "FUP-2024-081",
+      "details": "Assigned supportive mentoring check-in task."
+    },
+    {
+      "id": "AUD-003",
+      "timestamp": "2024-10-08T15:00:00Z",
+      "actor": "Prof. Dr. Archana Kulkarni",
+      "actorRole": "faculty",
+      "action": "UPDATE_ATTENDANCE",
+      "entityType": "Attendance",
+      "entityId": "ATT-2024-510",
+      "details": "Corrected attendance status from Absent to Present with audit trail reason."
+    },
+    {
+      "id": "AUD-004",
+      "timestamp": "2024-10-10T12:00:00Z",
+      "actor": "Prof. Sunita Patil",
+      "actorRole": "faculty",
+      "action": "CREATE_INCIDENT",
+      "entityType": "Incident",
+      "entityId": "INC-2024-1006",
+      "details": "Logged lab workstation fixture issue without unsupported accusations."
+    },
+    {
+      "id": "AUD-005",
+      "timestamp": "2024-10-11T17:15:00Z",
+      "actor": "Aman Verma",
+      "actorRole": "student",
+      "action": "SUBMIT_CORRECTION",
+      "entityType": "Correction",
+      "entityId": "COR-2024-022",
+      "details": "Submitted attendance credit clarification request for guest symposium."
+    },
+    {
+      "id": "AUD-1791966098266",
+      "timestamp": "2026-10-14T08:21:38.266Z",
+      "actor": "System Admin",
+      "actorRole": "admin",
+      "action": "RESET_DATA",
+      "entityType": "Incident",
+      "entityId": "ALL",
+      "details": "Demo dataset reset to initial state."
+    }
+  ]
+}
